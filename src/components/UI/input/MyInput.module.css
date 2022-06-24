@@ -1,0 +1,12 @@
+.myInput {
+    border: 1px dashed rgba(131, 131, 131, 0.37);
+    background-color: transparent;
+    color: gray;
+    padding: 2px 5px;
+    margin: 0px 2px;   
+    text-transform: lowercase; 
+}
+.myInput:focus-visible {
+    border: 1px solid rgb(131, 131, 131);
+    outline: none;
+}

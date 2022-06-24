@@ -1,0 +1,11 @@
+.taskActive {
+    font-weight: bold;
+}
+.taskClass {
+    font-size: 80%;
+    color: rgb(175, 175, 175);
+    margin: 0 10px;
+}
+.listName {
+    text-align: center;
+}

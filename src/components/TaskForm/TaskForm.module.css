@@ -1,0 +1,8 @@
+.todoForm {
+    border: 1px dashed rgba(131, 131, 131, 0.37);
+    color: gray;
+    padding: 10px 6px;
+    margin: 10px 20px;   
+    text-transform: lowercase; 
+    text-align: center;
+}
